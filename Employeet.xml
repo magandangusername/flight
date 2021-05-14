@@ -1,0 +1,247 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "employeet_import.xsl"?>  
+
+
+<emp_inf>
+	<department>
+		<employee num="HRD-001">
+			<department_name>HRD</department_name>
+			<department_number>111</department_number>
+
+			<employee_name>
+				<lastname>Jacob</lastname>
+				<firstname>Timothy</firstname>
+				<MI>P</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>June</month>
+				<year>2015</year>
+			</date_hired>
+		
+			<position>HR Manager</position>
+			<status>Permanent</status>
+			<salary>50000.00</salary>
+		</employee>
+
+		<employee num="HRD-002">
+			<department_name>HRD</department_name>
+			<department_number>111</department_number>
+			<employee_name>
+				<lastname>Balong</lastname>
+				<firstname>Aaron</firstname>
+				<MI>B</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>March</month>
+				<year>2020</year>
+			</date_hired>
+		
+			<position>Staff</position>
+			<status>Permanent</status>
+			<salary>14000.00</salary>
+		</employee>
+
+		<employee num="HRD-003">
+			<department_name>HRD</department_name>
+			<department_number>111</department_number>
+			<employee_name>
+				<lastname>Charmie</lastname>
+				<firstname>Grace</firstname>
+				<MI>S</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>March</month>
+				<year>2021</year>
+			</date_hired>
+		
+			<position>Staff</position>
+			<status>Probabitionary</status>
+			<salary>12000.00</salary>
+		</employee>
+
+		<employee num="HRD-004">
+			<department_name>HRD</department_name>
+			<department_number>111</department_number>
+			
+			<employee_name>
+				<lastname>Santos</lastname>
+				<firstname>Ark</firstname>
+				<MI>T</MI>
+			</employee_name>
+				
+			<date_hired>
+				<month>June</month>
+				<year>2020</year>
+			</date_hired>
+			
+			<position>Staff</position>
+			<status>Permanent</status>
+			<salary>14000.00</salary>
+		</employee>
+	</department>
+
+
+
+	<department>
+		<employee num="MIS-001">
+			<department_number>222</department_number>
+			<department_name>MIS</department_name>
+			<employee_name>
+				<lastname>Banana</lastname>
+				<firstname>Anna</firstname>
+				<MI>K</MI>
+			</employee_name>
+				
+			<date_hired>
+				<month>February</month>
+				<year>2018</year>
+			</date_hired>
+			
+			<position>Programmer</position>
+			<status>Permanent</status>
+			<salary>30000.00</salary>
+		</employee>
+		
+		<employee num="MIS-002">
+			<department_number>222</department_number>
+			<department_name>MIS</department_name>
+			<employee_name>
+				<lastname>Kim</lastname>
+				<firstname>Ryeowook</firstname>
+				<MI>A</MI>
+			</employee_name>
+				
+			<date_hired>
+				<month>April</month>
+				<year>2017</year>
+			</date_hired>
+			
+			<position>Project Manager</position>
+			<status>Permanent</status>
+			<salary>70000.00</salary>
+		</employee>
+		
+		<employee num="MIS-003">
+			<department_number>222</department_number>
+			<department_name>MIS</department_name>
+			<employee_name>
+				<lastname>Leeteuk</lastname>
+				<firstname>Leeteuk</firstname>
+				<MI>L</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>May</month>
+				<year>2009</year>
+			</date_hired>
+			
+			<position>Programmer</position>
+			<status>Permanent</status>
+			<salary>50000.00</salary>
+		</employee>
+		
+		<employee num="MIS-004">
+			<department_number>222</department_number>
+			<department_name>MIS</department_name>
+			<employee_name>
+				<lastname>Eunhyuk</lastname>
+				<firstname>Eunhyuk</firstname>
+				<MI>E</MI>
+			</employee_name>
+				
+			<date_hired>
+				<month>September</month>
+				<year>2010</year>
+			</date_hired>
+			
+			<position>Encoder</position>
+			<status>Permanent</status>
+			<salary>14000.00</salary>
+		</employee>
+	</department>
+
+	<department>
+		<employee num="MAR-001">
+			<department_number>333</department_number>
+			<department_name>Marketing</department_name>
+			
+			<employee_name>
+				<lastname>Lee</lastname>
+				<firstname>Sungmin</firstname>
+				<MI>B</MI>
+			</employee_name>
+				
+			<date_hired>
+				<month>January</month>
+				<year>2021</year>
+			</date_hired>
+			
+			<position>Marketing Head</position>
+			<status>Probationary</status>
+			<salary>40000.00</salary>
+		</employee>
+			
+		<employee num="MAR-002">
+			<department_number>333</department_number>
+			<department_name>Marketing</department_name>
+		
+			<employee_name>
+				<lastname>Dela Cruz</lastname>
+				<firstname>Juan</firstname>
+				<MI>X</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>June</month>
+				<year>2020</year>
+			</date_hired>
+		
+			<position>Marketing Assistant</position>
+			<status>Permanent</status>
+			<salary>25000.00</salary>
+		</employee>
+
+		<employee num="MAR-003">
+			<department_number>333</department_number>
+			<department_name>Marketing</department_name>
+		
+			<employee_name>
+				<lastname>Jose</lastname>
+				<firstname>Maria</firstname>
+				<MI>J</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>August</month>
+				<year>2020</year>
+			</date_hired>
+		
+			<position>Staff</position>
+			<status>Permanent</status>
+			<salary>15000.00</salary>
+		</employee>
+			
+		<employee num="MAR-004">
+			<department_number>333</department_number>
+			<department_name>Marketing</department_name>
+		
+			<employee_name>
+				<lastname>Palmer</lastname>
+				<firstname>Roger</firstname>
+				<MI>Z</MI>
+			</employee_name>
+			
+			<date_hired>
+				<month>March</month>
+				<year>2021</year>
+			</date_hired>
+		
+			<position>Staff</position>
+			<status>Probitionary</status>
+			<salary>15000.00</salary>
+		</employee>
+	</department>
+</emp_inf>
